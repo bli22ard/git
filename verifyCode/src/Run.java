@@ -13,5 +13,6 @@ public class Run {
 		Random r= new Random();
 		System.out.println(r.nextDouble());
 		
+		
 	}
 }
